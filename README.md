@@ -11,12 +11,12 @@ Souder des connecteur (header 2.54) sur les emplacements P5 et P6
  * P5 : pour le shunt de programmation.
  * P6 : pour le port série.
 
-## Procédure d'update
-Important :
-  - Je ne détail pas la partie programmation depuis le logiciel arduino, je supose que c'est acqui.
-  - Activer le shunt de programmation seulement pour programmer le module.
-  - Connecter la masse de l'alimentation de la carte à celle de l'adaptateur USB série (FT232 par exemple)
+## Important :
+- Je ne détail pas la partie programmation depuis le logiciel arduino, je supose que c'est acqui.
+- Activer le shunt de programmation seulement pour programmer le module.
+- Connecter la masse de l'alimentation de la carte à celle de l'adaptateur USB série (FT232 par exemple)
 
+## Procédure d'update
 - Débrancher toutes les alims exterieur et port série
 - Activer le shunt de programmation
 - Brancher l'alim externe
